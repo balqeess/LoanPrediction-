@@ -1,0 +1,301 @@
+Client_ID,Credit_Score,Income,DTI_Ratio,Collateral,Loan_Amount,Loan_Purpose,Employment_Years,Loan_Term_Years,Down_Payment,Existing_Liabilities,Citizenship,Loan_Approved
+1,602,34014,49.23,None,29762,Medical,11,3,9074,Personal Loan,Yes,No
+2,770,41093,34.46,House,16046,Vacation,5,2,6406,Credit Card,Yes,Yes
+3,606,48070,26.29,None,22717,Home Improvement,5,8,8591,Personal Loan,Yes,No
+4,571,65777,16.52,House,25534,Business,12,6,6907,Mortgage,No,No
+5,688,86958,47.36,House,28150,Home Improvement,5,2,8800,Personal Loan,No,No
+6,520,112074,47.17,House,7711,Vacation,1,7,1638,Mortgage,Yes,No
+7,602,40729,23.85,None,9853,Vacation,1,9,5671,Mortgage,Yes,Yes
+8,621,75017,39.34,House,27596,Business,8,6,6928,Personal Loan,Yes,Yes
+9,714,96320,17.64,Car,28863,Home Improvement,12,8,1382,Credit Card,Yes,Yes
+10,587,57751,20.82,None,26792,Vacation,8,4,1403,Credit Card,Yes,No
+11,599,108069,22.59,None,12715,Medical,12,5,9011,None,Yes,No
+12,651,84748,25.31,None,13942,Car,6,8,3292,Credit Card,Yes,Yes
+13,630,35801,49.85,None,20507,Car,12,9,9011,None,Yes,No
+14,649,49190,39.39,Car,20826,Car,11,4,419,Credit Card,No,Yes
+15,757,79689,28.45,None,6762,Home Improvement,13,3,4517,Credit Card,Yes,Yes
+16,793,80993,40.8,None,20850,Business,4,2,3302,Mortgage,Yes,Yes
+17,691,59592,47.03,House,17112,Vacation,2,7,7857,None,Yes,No
+18,776,40647,48.55,None,28485,Medical,14,6,9700,Credit Card,Yes,No
+19,660,38716,17.03,Car,29058,Medical,2,6,7870,None,Yes,Yes
+20,521,118891,28.81,Car,17652,Home Improvement,9,2,5693,Mortgage,No,No
+21,752,117545,18.74,Car,11122,Car,5,7,767,Mortgage,Yes,Yes
+22,735,119912,26.75,Car,5481,Home Improvement,4,2,2044,None,Yes,Yes
+23,548,100316,20.94,None,19536,Business,10,3,1549,Mortgage,Yes,No
+24,558,32368,37.64,None,5153,Business,13,9,9956,Personal Loan,Yes,No
+25,669,107575,28.59,Car,12617,Vacation,1,4,6140,Personal Loan,Yes,Yes
+26,687,36655,23.03,Car,6524,Vacation,7,8,3716,Mortgage,Yes,Yes
+27,770,100031,24.31,None,7120,Business,3,6,4481,Personal Loan,Yes,Yes
+28,689,106429,27.61,Car,20048,Business,6,3,7898,Credit Card,Yes,Yes
+29,674,117922,24.1,House,7343,Business,5,4,6548,None,Yes,Yes
+30,550,85766,30.86,Car,10136,Home Improvement,5,3,2293,Credit Card,Yes,No
+31,554,43403,16.13,Car,27144,Business,11,7,4837,None,Yes,No
+32,743,62097,24.79,House,6240,Medical,5,6,7758,Mortgage,Yes,Yes
+33,630,108657,29.39,House,5060,Car,1,8,6793,Credit Card,Yes,Yes
+34,634,40966,36.1,None,14130,Business,1,2,7638,Mortgage,Yes,No
+35,520,82921,24.48,None,23023,Car,3,2,7993,Mortgage,Yes,No
+36,666,79726,19.66,House,27569,Home Improvement,14,4,6007,None,Yes,Yes
+37,773,80300,17.67,House,17312,Car,12,8,5542,None,Yes,Yes
+38,588,52677,47.92,None,18350,Home Improvement,10,9,9092,None,Yes,No
+39,513,85609,29.58,Car,29354,Medical,4,5,6356,Credit Card,Yes,No
+40,741,86661,35.34,House,17418,Home Improvement,5,7,8433,Personal Loan,Yes,Yes
+41,764,61024,47.17,None,6252,Home Improvement,2,4,7380,None,Yes,No
+42,552,100313,17.9,Car,25587,Vacation,8,5,2385,None,Yes,No
+43,591,83006,45.68,House,13363,Business,11,3,4268,Credit Card,Yes,No
+44,763,45338,34.31,Car,14650,Business,11,7,671,None,Yes,Yes
+45,534,98027,20.77,None,24933,Medical,14,3,163,Credit Card,Yes,No
+46,705,110135,29.39,House,25581,Medical,2,9,8656,Mortgage,Yes,Yes
+47,580,49508,42.22,Car,28393,Business,9,8,4592,None,Yes,No
+48,549,33051,31.81,House,28051,Vacation,2,6,4795,None,Yes,No
+49,501,78747,49.49,Car,23706,Business,13,7,4798,Mortgage,Yes,No
+50,553,117142,28.19,None,21314,Vacation,9,5,6036,Mortgage,Yes,No
+51,605,117235,41.24,None,9090,Medical,7,9,2355,Mortgage,No,Yes
+52,759,84021,28.75,House,11960,Car,8,6,5887,None,Yes,Yes
+53,690,96412,44.02,Car,8004,Medical,11,2,7961,Personal Loan,Yes,Yes
+54,717,88335,34.92,House,26520,Medical,2,5,5827,Personal Loan,Yes,Yes
+55,543,86179,17.22,House,21713,Home Improvement,7,4,8737,Personal Loan,Yes,No
+56,661,62093,16.29,Car,8640,Home Improvement,12,2,4719,None,Yes,Yes
+57,701,99678,19.68,Car,29366,Home Improvement,6,9,593,Mortgage,Yes,Yes
+58,769,110738,15.48,Car,25491,Home Improvement,4,2,4839,None,Yes,Yes
+59,770,69734,17.64,None,6341,Vacation,7,4,7394,Mortgage,Yes,Yes
+60,714,102615,39.21,House,16855,Business,14,7,9651,None,Yes,Yes
+61,751,103523,33.7,House,29791,Car,13,2,3493,None,Yes,Yes
+62,689,47019,41.25,None,5338,Medical,4,8,6164,Mortgage,Yes,Yes
+63,795,113613,46.96,Car,10895,Vacation,2,5,2672,Personal Loan,Yes,No
+64,712,116672,35.48,None,17254,Car,10,6,4200,Mortgage,Yes,Yes
+65,707,103847,40.41,None,24092,Vacation,12,2,16,Credit Card,Yes,Yes
+66,736,112750,41.5,None,16344,Vacation,7,5,3191,Credit Card,Yes,Yes
+67,552,109634,28.22,House,6750,Medical,8,3,392,Mortgage,Yes,No
+68,779,58251,23.44,None,26988,Business,2,5,8616,None,Yes,Yes
+69,716,55945,22.18,House,7421,Home Improvement,5,6,6272,Credit Card,Yes,Yes
+70,751,62217,23.8,House,12119,Business,1,5,571,Credit Card,Yes,Yes
+71,687,38308,24.62,House,10319,Medical,7,4,3631,None,Yes,Yes
+72,540,35949,22.25,Car,20896,Medical,8,9,6172,None,Yes,No
+73,656,81990,45.74,House,27993,Medical,13,6,9312,Personal Loan,Yes,No
+74,514,31150,41.49,House,26771,Car,6,9,7177,None,Yes,No
+75,564,119480,16.64,Car,16918,Business,5,7,8433,Mortgage,Yes,No
+76,508,104740,24.4,House,25377,Business,6,9,3897,Mortgage,Yes,No
+77,628,96617,15.78,None,29428,Vacation,2,3,8123,Personal Loan,Yes,Yes
+78,635,46896,32.44,None,18849,Vacation,1,4,2279,Credit Card,Yes,No
+79,562,76175,31.67,House,29622,Vacation,7,7,8980,Credit Card,Yes,No
+80,638,37805,44.1,Car,9873,Medical,7,5,7451,None,Yes,Yes
+81,580,35237,25.77,None,9806,Business,10,6,8906,Mortgage,Yes,No
+82,662,50056,43.57,Car,13592,Medical,11,3,775,Credit Card,No,Yes
+83,788,75543,48.88,Car,17182,Car,10,4,6869,Personal Loan,Yes,No
+84,760,86556,18.09,None,27297,Vacation,14,7,2247,Personal Loan,Yes,Yes
+85,730,33343,42.71,Car,28508,Medical,2,7,7088,Mortgage,No,No
+86,540,43500,35.65,None,24541,Medical,2,3,78,Personal Loan,Yes,No
+87,527,83222,31.8,Car,21774,Car,1,8,8080,Personal Loan,Yes,No
+88,634,59375,29.72,None,17045,Home Improvement,10,5,7099,Mortgage,Yes,Yes
+89,700,39662,42.46,House,9430,Business,8,3,3926,None,No,Yes
+90,767,46964,37.38,None,13820,Home Improvement,8,7,9047,None,Yes,Yes
+91,532,89638,43.18,None,29070,Vacation,1,2,7340,Personal Loan,Yes,No
+92,547,103666,46.61,None,9232,Medical,12,4,7083,None,Yes,No
+93,561,115067,36.6,None,16122,Car,11,3,6230,None,Yes,No
+94,715,97215,49.32,Car,20023,Car,8,8,9223,Personal Loan,Yes,No
+95,792,99042,36.28,House,13007,Business,9,7,4940,None,Yes,Yes
+96,598,43284,37.28,None,22905,Home Improvement,14,5,3271,Personal Loan,Yes,No
+97,671,102789,34.42,Car,14018,Business,4,9,3456,Credit Card,Yes,Yes
+98,713,114664,18.19,House,6500,Medical,1,7,7788,Mortgage,Yes,Yes
+99,534,91389,40.42,House,11737,Business,1,5,8599,Mortgage,Yes,No
+100,726,39435,34.16,House,8294,Car,3,3,7650,None,Yes,Yes
+101,600,84340,30.78,House,26469,Car,14,5,2711,None,Yes,Yes
+102,630,74078,46.87,None,23803,Vacation,5,6,1668,None,Yes,No
+103,756,108832,25.43,None,24426,Vacation,5,6,147,Mortgage,Yes,Yes
+104,504,81293,33.33,Car,9497,Medical,9,6,6420,Credit Card,Yes,No
+105,717,108781,39.42,Car,22850,Home Improvement,10,8,365,Credit Card,Yes,Yes
+106,754,90403,42.88,Car,24945,Business,14,8,9866,Mortgage,Yes,Yes
+107,782,59124,31.08,House,5614,Medical,12,2,4531,Credit Card,Yes,Yes
+108,706,73919,44.47,House,26776,Vacation,2,8,5330,Mortgage,Yes,Yes
+109,514,65247,41.91,None,29077,Business,2,9,5510,Credit Card,Yes,No
+110,541,92752,17.32,House,14374,Vacation,6,3,8754,Personal Loan,Yes,No
+111,678,86573,16.61,House,24607,Business,9,7,8964,Personal Loan,Yes,Yes
+112,562,89101,36.73,House,28522,Home Improvement,1,7,6493,Mortgage,Yes,No
+113,730,56646,27.16,Car,7667,Medical,9,2,5439,Credit Card,No,Yes
+114,740,53049,22.32,Car,29364,Business,9,8,9765,None,Yes,Yes
+115,551,109605,35.29,None,18409,Car,13,9,6511,Credit Card,Yes,No
+116,595,98385,26.95,House,21514,Car,9,5,7504,Personal Loan,Yes,No
+117,721,70158,33.8,House,7983,Business,5,2,1246,Personal Loan,Yes,Yes
+118,730,95417,31.1,None,25662,Business,13,9,3839,Credit Card,Yes,Yes
+119,736,53289,35.47,House,28510,Business,9,5,8551,Credit Card,Yes,Yes
+120,642,39823,29.01,House,17651,Car,11,9,2376,None,Yes,Yes
+121,670,90160,39.42,Car,13230,Car,4,5,3009,None,Yes,Yes
+122,528,71975,21.3,None,29078,Business,2,4,9154,Credit Card,Yes,No
+123,535,39540,39.38,None,11640,Vacation,13,9,1827,Credit Card,Yes,No
+124,512,46364,29.41,None,16779,Vacation,6,7,6979,Credit Card,Yes,No
+125,659,34611,45.6,None,26852,Home Improvement,14,6,9805,Credit Card,Yes,No
+126,686,57663,33.03,Car,20317,Medical,4,8,9832,Mortgage,Yes,Yes
+127,742,81991,49.06,Car,22304,Vacation,6,5,8569,Credit Card,Yes,No
+128,585,87679,36.07,House,12564,Car,3,4,4285,None,Yes,No
+129,783,60977,22.83,House,20520,Vacation,6,9,6910,Personal Loan,Yes,Yes
+130,565,79115,43.76,House,18737,Home Improvement,2,7,8561,Mortgage,Yes,No
+131,669,118223,27.08,House,14323,Home Improvement,2,6,2196,Credit Card,No,Yes
+132,544,90890,27.17,Car,20229,Medical,13,5,3747,Personal Loan,Yes,No
+133,561,96387,16.11,None,16713,Vacation,9,9,8843,Mortgage,Yes,No
+134,633,48071,34.21,Car,13502,Car,7,9,5978,Personal Loan,Yes,Yes
+135,783,89275,33.7,House,24625,Car,3,5,5607,Credit Card,Yes,Yes
+136,527,102369,27.46,Car,5545,Business,13,2,769,Credit Card,Yes,No
+137,607,41938,46.3,None,9346,Car,11,2,780,None,Yes,No
+138,543,65195,19.51,None,14996,Medical,1,7,9908,Credit Card,Yes,No
+139,785,34000,26.55,Car,20775,Medical,8,6,6303,Credit Card,Yes,Yes
+140,627,100588,26.26,Car,18919,Car,14,5,3983,Mortgage,Yes,Yes
+141,730,68304,18.23,Car,8810,Car,6,7,9503,None,Yes,Yes
+142,689,99449,31.84,House,12206,Business,7,7,8714,Mortgage,Yes,Yes
+143,724,112986,39.07,Car,14005,Car,9,3,521,Personal Loan,Yes,Yes
+144,782,119643,32.91,Car,21371,Business,5,9,9127,Credit Card,Yes,Yes
+145,620,50764,20.49,Car,17316,Business,1,8,7569,Personal Loan,Yes,Yes
+146,615,116027,28.21,None,23416,Car,12,9,5784,Mortgage,Yes,Yes
+147,732,68494,15.09,None,13436,Home Improvement,10,2,4583,Credit Card,Yes,Yes
+148,758,33373,45.39,House,17984,Home Improvement,7,6,5946,Credit Card,Yes,No
+149,697,42161,17.96,House,5271,Business,5,9,4941,Mortgage,No,Yes
+150,636,57350,35.9,None,24895,Car,3,5,6267,Mortgage,Yes,No
+151,664,55351,49.52,None,23155,Home Improvement,12,7,7128,Mortgage,Yes,No
+152,724,118668,33.78,None,15616,Car,13,5,2461,Mortgage,Yes,Yes
+153,733,45305,47.34,Car,9361,Car,9,3,685,Mortgage,No,No
+154,671,105353,23.26,Car,12069,Car,1,6,2160,Credit Card,Yes,Yes
+155,651,106797,41.6,None,22304,Vacation,1,7,7031,Mortgage,Yes,Yes
+156,659,95953,33.59,Car,29574,Car,1,5,9759,Credit Card,Yes,Yes
+157,595,87458,40.22,Car,8430,Vacation,3,2,5341,Credit Card,Yes,No
+158,732,50358,17.18,House,25819,Business,12,8,38,Mortgage,Yes,Yes
+159,679,33267,20.17,None,17676,Home Improvement,6,3,4875,Mortgage,Yes,Yes
+160,612,112745,19.66,None,15816,Home Improvement,10,6,1256,None,Yes,Yes
+161,551,119588,39.05,Car,25144,Home Improvement,11,3,7697,Credit Card,Yes,No
+162,767,68513,44.56,None,7050,Home Improvement,3,2,2196,Mortgage,Yes,Yes
+163,794,56092,41.24,House,16692,Home Improvement,8,6,7165,Mortgage,Yes,Yes
+164,612,41338,16.07,House,6165,Home Improvement,14,3,301,Mortgage,Yes,Yes
+165,600,30412,45.35,House,29951,Home Improvement,14,4,7527,None,Yes,No
+166,612,37543,27.4,None,7033,Business,10,2,6381,None,Yes,Yes
+167,580,63496,28.9,None,27851,Car,2,2,646,Personal Loan,Yes,No
+168,686,90692,18.67,None,5145,Medical,14,2,9951,Credit Card,Yes,Yes
+169,612,119084,40.81,None,19269,Vacation,9,4,8789,Personal Loan,Yes,Yes
+170,501,74425,21.38,None,25772,Medical,3,4,8853,Mortgage,Yes,No
+171,629,68756,34.74,House,12832,Medical,5,5,4330,None,Yes,Yes
+172,719,48888,44.42,Car,29557,Car,10,7,9560,None,Yes,No
+173,553,65735,18.12,House,19286,Car,8,8,7003,Personal Loan,Yes,No
+174,723,77295,33.74,None,7632,Car,2,3,3537,None,Yes,Yes
+175,724,113042,23.16,House,9494,Home Improvement,6,5,4558,Mortgage,Yes,Yes
+176,625,115999,27.0,None,20152,Business,12,3,6579,None,Yes,Yes
+177,629,47955,31.59,None,29440,Home Improvement,5,8,8474,Personal Loan,Yes,No
+178,552,67841,27.43,House,28895,Business,13,7,9678,Mortgage,Yes,No
+179,671,100640,37.71,None,14155,Business,10,4,4082,Personal Loan,Yes,Yes
+180,717,95510,31.79,Car,15426,Medical,9,7,4183,None,Yes,Yes
+181,659,64911,35.45,None,15233,Medical,12,4,8652,Personal Loan,Yes,Yes
+182,697,89031,40.79,Car,6828,Business,5,8,3754,Personal Loan,Yes,Yes
+183,746,118726,34.52,Car,17260,Business,2,7,1724,Credit Card,Yes,Yes
+184,702,37357,35.53,None,14130,Home Improvement,5,5,1376,None,Yes,Yes
+185,683,62479,34.76,House,9805,Home Improvement,12,6,8706,None,Yes,Yes
+186,622,91476,28.26,Car,5806,Medical,4,5,8894,Personal Loan,Yes,Yes
+187,754,74811,26.81,House,28870,Car,11,3,1653,Credit Card,Yes,Yes
+188,793,66208,46.49,Car,13202,Business,7,5,2066,None,Yes,No
+189,779,50150,36.26,None,6868,Home Improvement,6,8,22,Mortgage,Yes,Yes
+190,597,101180,23.55,None,19561,Medical,14,2,2460,Personal Loan,Yes,No
+191,697,73286,32.44,Car,20512,Home Improvement,2,3,5926,None,Yes,Yes
+192,739,98450,26.56,None,29262,Business,12,7,6251,Mortgage,Yes,Yes
+193,643,51352,47.68,Car,19899,Business,11,3,9496,None,Yes,No
+194,596,85069,15.26,None,27074,Vacation,11,6,7295,Mortgage,Yes,No
+195,700,44397,22.89,House,29211,Car,13,4,3300,Personal Loan,Yes,Yes
+196,623,71555,27.79,None,21220,Vacation,5,7,6279,None,Yes,Yes
+197,686,76959,32.07,House,20934,Medical,7,9,8553,None,Yes,Yes
+198,758,30728,44.78,None,10429,Home Improvement,11,3,7353,Credit Card,Yes,No
+199,647,80517,18.08,House,14076,Medical,7,7,3727,Personal Loan,Yes,Yes
+200,751,96234,43.21,None,8564,Business,5,7,6272,Mortgage,Yes,Yes
+201,646,69954,16.95,House,6389,Vacation,12,7,5995,None,Yes,Yes
+202,647,77280,44.48,Car,16593,Vacation,9,4,9476,None,No,Yes
+203,698,109459,16.81,Car,12274,Vacation,4,9,514,Mortgage,Yes,Yes
+204,627,46779,15.64,House,22208,Medical,11,8,448,Personal Loan,Yes,Yes
+205,538,93932,39.39,None,23649,Business,3,5,6019,Credit Card,Yes,No
+206,628,102936,49.9,House,22320,Home Improvement,4,7,5343,Credit Card,Yes,No
+207,766,54466,46.38,None,15745,Home Improvement,5,2,8033,None,Yes,No
+208,650,66939,35.16,Car,27786,Medical,13,8,2520,Mortgage,Yes,Yes
+209,797,99896,47.11,None,19199,Vacation,6,6,3081,None,Yes,No
+210,598,65270,15.19,Car,25229,Car,3,4,1428,Mortgage,Yes,No
+211,762,89163,49.13,None,20876,Medical,2,3,3967,Credit Card,Yes,No
+212,751,112637,32.18,None,23180,Medical,14,4,6445,Personal Loan,Yes,Yes
+213,643,81934,40.3,None,13245,Business,13,3,9114,Mortgage,Yes,Yes
+214,611,94895,43.73,House,12214,Home Improvement,4,4,2159,Credit Card,Yes,Yes
+215,559,62307,40.15,House,5726,Medical,5,3,5132,None,Yes,No
+216,501,84098,33.73,Car,24120,Medical,4,7,2547,Mortgage,Yes,No
+217,753,90921,31.68,Car,18832,Vacation,14,5,2979,Personal Loan,Yes,Yes
+218,639,35486,44.35,House,16362,Vacation,11,3,2649,None,Yes,Yes
+219,536,38335,22.18,Car,23297,Car,13,9,8505,None,Yes,No
+220,659,116900,48.88,House,15106,Business,12,3,3083,Credit Card,Yes,No
+221,508,119112,39.88,None,12657,Car,3,2,1037,Mortgage,Yes,No
+222,732,41130,21.98,Car,23850,Vacation,8,3,3489,None,Yes,Yes
+223,598,117508,40.77,Car,28696,Home Improvement,10,2,7604,Personal Loan,Yes,No
+224,646,90566,33.54,House,19551,Vacation,4,6,7544,Mortgage,Yes,Yes
+225,707,96703,39.75,Car,29578,Business,14,7,2634,Personal Loan,Yes,Yes
+226,630,57192,41.87,Car,12906,Vacation,2,2,3983,None,Yes,Yes
+227,651,31062,18.06,None,26260,Business,2,5,1778,Personal Loan,Yes,Yes
+228,553,114076,32.71,Car,12287,Business,1,8,7902,Credit Card,Yes,No
+229,619,119780,47.62,None,5892,Business,13,7,5110,Personal Loan,Yes,No
+230,660,51545,26.22,House,15222,Business,4,2,5189,Mortgage,Yes,Yes
+231,615,51689,35.79,Car,9675,Business,10,7,7378,Personal Loan,Yes,Yes
+232,574,41174,27.92,None,6933,Home Improvement,9,9,1124,Personal Loan,Yes,No
+233,612,118461,30.9,House,22764,Car,14,7,697,Credit Card,Yes,Yes
+234,603,39348,34.2,Car,16873,Medical,11,7,2179,Personal Loan,Yes,Yes
+235,753,53714,34.21,House,22674,Car,7,6,9596,Personal Loan,No,Yes
+236,726,68102,22.06,Car,23024,Business,12,5,5251,None,Yes,Yes
+237,611,104460,38.96,House,18239,Home Improvement,10,4,9235,None,Yes,Yes
+238,598,119930,18.08,House,28874,Vacation,7,4,1929,Mortgage,Yes,No
+239,652,36801,19.86,None,15874,Home Improvement,13,2,1013,None,Yes,Yes
+240,693,102267,15.09,House,22602,Business,7,7,226,None,Yes,Yes
+241,662,78136,19.08,Car,10016,Home Improvement,8,2,7321,None,Yes,Yes
+242,707,53625,31.56,Car,28265,Home Improvement,1,6,1828,None,Yes,Yes
+243,668,112873,36.21,None,18774,Business,10,6,7909,Credit Card,Yes,Yes
+244,660,102592,42.8,Car,14752,Home Improvement,13,3,5588,None,Yes,Yes
+245,567,107052,18.73,Car,22338,Medical,10,9,2023,Credit Card,Yes,No
+246,788,74261,44.78,Car,20585,Medical,8,6,4966,Credit Card,Yes,Yes
+247,776,31542,41.11,House,12291,Home Improvement,4,3,5891,None,Yes,Yes
+248,634,51677,29.3,House,5974,Vacation,4,5,1080,Personal Loan,Yes,Yes
+249,694,76732,47.65,Car,9133,Business,4,2,5036,Credit Card,Yes,No
+250,627,80343,49.68,None,19663,Medical,6,8,2563,Personal Loan,Yes,No
+251,532,69081,22.18,House,26754,Vacation,7,5,3292,Personal Loan,Yes,No
+252,675,92856,28.27,None,8972,Home Improvement,6,6,3586,None,Yes,Yes
+253,521,118858,47.43,Car,10295,Vacation,1,5,4431,Mortgage,Yes,No
+254,737,49065,40.26,Car,18913,Car,12,5,6841,None,Yes,Yes
+255,657,113460,16.68,House,14105,Medical,8,9,6643,Mortgage,Yes,Yes
+256,537,118092,42.35,Car,13228,Home Improvement,13,9,3959,Mortgage,Yes,No
+257,729,84693,43.98,House,14903,Business,10,9,161,None,Yes,Yes
+258,550,56962,41.27,Car,8020,Home Improvement,11,5,593,None,Yes,No
+259,763,58295,42.98,Car,13987,Business,13,6,3390,Mortgage,Yes,Yes
+260,782,43807,43.88,House,25420,Home Improvement,7,8,5997,None,Yes,No
+261,526,72348,21.52,House,26452,Vacation,6,7,6354,Mortgage,Yes,No
+262,725,56432,23.25,House,17880,Vacation,6,5,663,Personal Loan,Yes,Yes
+263,776,113285,37.18,Car,10233,Vacation,5,3,9324,None,Yes,Yes
+264,785,87854,46.78,Car,14516,Car,6,6,541,Personal Loan,Yes,No
+265,596,70262,26.07,None,19559,Business,12,5,5433,Credit Card,Yes,No
+266,783,67080,35.59,House,21701,Vacation,9,8,5093,Personal Loan,Yes,Yes
+267,646,31324,38.9,Car,7396,Car,10,7,867,Personal Loan,Yes,Yes
+268,503,65909,30.82,Car,23546,Business,9,9,8623,Mortgage,Yes,No
+269,534,119339,39.98,House,24129,Home Improvement,10,6,5469,Personal Loan,Yes,No
+270,691,49870,46.49,None,6591,Car,8,4,6256,None,Yes,No
+271,548,64578,36.84,House,16303,Medical,10,7,9398,Mortgage,Yes,No
+272,516,102124,33.89,None,11183,Car,9,3,1169,Credit Card,Yes,No
+273,671,56790,30.36,Car,25314,Car,13,5,830,None,Yes,Yes
+274,719,55289,35.21,None,6312,Business,10,8,1651,Credit Card,Yes,Yes
+275,657,85129,27.44,Car,25695,Home Improvement,8,4,1136,Personal Loan,Yes,Yes
+276,545,45485,28.7,House,12314,Medical,8,8,2810,None,Yes,No
+277,505,74482,33.62,House,23767,Vacation,1,4,8667,None,Yes,No
+278,598,116188,17.33,House,24623,Vacation,10,6,9518,Credit Card,Yes,No
+279,732,34748,23.02,None,7139,Car,11,4,1019,None,Yes,Yes
+280,536,116769,34.0,Car,19688,Business,5,3,5237,None,Yes,No
+281,779,39435,30.1,House,23088,Business,4,3,1283,None,Yes,Yes
+282,680,33709,26.65,House,11924,Vacation,2,2,659,Personal Loan,Yes,Yes
+283,594,60355,40.57,Car,5362,Medical,8,3,2010,Credit Card,Yes,No
+284,598,85771,39.28,House,23988,Home Improvement,3,7,8590,None,Yes,No
+285,687,87799,20.84,Car,18481,Medical,4,4,1733,Mortgage,Yes,Yes
+286,615,43116,45.75,Car,25670,Home Improvement,12,3,2125,Mortgage,Yes,No
+287,690,55470,32.34,Car,8738,Vacation,7,6,2171,Mortgage,Yes,Yes
+288,752,72344,40.95,Car,7469,Home Improvement,10,8,8266,Mortgage,No,Yes
+289,660,72918,35.06,Car,26179,Business,9,9,3471,Personal Loan,Yes,Yes
+290,755,82224,49.92,None,27534,Car,2,8,9028,None,No,No
+291,627,69298,41.33,House,21106,Car,3,2,5624,Credit Card,Yes,Yes
+292,517,110219,39.74,None,21940,Vacation,4,8,8691,None,Yes,No
+293,780,91629,42.25,House,14017,Business,10,4,8329,Personal Loan,Yes,Yes
+294,722,96040,20.01,None,7808,Medical,1,2,2097,Mortgage,Yes,Yes
+295,553,58016,22.16,Car,21370,Business,7,4,5068,Personal Loan,Yes,No
+296,557,53960,39.99,House,26534,Car,2,6,6397,None,Yes,No
+297,673,63591,32.29,House,19870,Car,5,2,2757,Credit Card,Yes,Yes
+298,779,112848,41.41,None,17713,Business,1,5,3920,Personal Loan,Yes,Yes
+299,613,97641,18.6,None,12561,Business,3,7,8186,Credit Card,Yes,Yes
+300,787,66395,33.78,House,7719,Car,12,7,1900,Personal Loan,Yes,Yes
